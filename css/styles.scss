@@ -1,7 +1,34 @@
 body {
-	font-family: sans-serif;
+	font-family: poppins, arial, sans-serif;
+	background-image: url("/images/flowervase.jpg");
 
-	img {
-		width: 100%;
+  h1 {
+		color:black;
+		margin: 0 auto;
 	}
+
+}
+
+.cocktail {
+				 border-width: 5px;
+				 border-style: solid;
+				 border-color: white;
+				 border-radius: 5px;
+				 box-shadow: 5px 5px gray;
+}
+
+section {
+	display: flex;
+
+}
+
+article {
+	color: white;
+	background-color: #67BBC9;
+	padding: 40px;
+	margin: 30px;
+	box-shadow: 5px 5px gray;
+	border-radius: 5px;
+	width: 275px;
+	height: 250px;
 }
