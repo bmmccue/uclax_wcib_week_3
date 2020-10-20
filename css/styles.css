@@ -53,6 +53,10 @@ article {
   background-image: url("../images/blackberries.png");
   background-repeat: no-repeat; }
 
+div {
+  margin-right: 200px;
+  text-align: justify; }
+
 footer {
   color: white;
   margin-left: 500px;
