@@ -52,3 +52,8 @@ article {
   height: 270px;
   background-image: url("/images/blackberries.png");
   background-repeat: no-repeat; }
+
+  div {
+    margin-right: 100px;
+    text-align:justify;
+  }
