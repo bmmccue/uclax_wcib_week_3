@@ -1,5 +1,5 @@
 html {
-  background: url("/images/flowervase.jpg") no-repeat center center fixed;
+  background: url("../images/flowervase.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -38,7 +38,7 @@ p {
   margin-left: 100px; }
 
 .Instructions {
-  background-image: url("/images/limes.png");
+  background-image: url("../images/limes.png");
   background-repeat: no-repeat; }
 
 article {
@@ -50,7 +50,7 @@ article {
   border-radius: 5px;
   width: 270px;
   height: 270px;
-  background-image: url("/images/blackberries.png");
+  background-image: url("../images/blackberries.png");
   background-repeat: no-repeat; }
 
 footer {
